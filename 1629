@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Titulo</title>
+    
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <div>
+                <div>
+                    <h2 style="color: aqua;">hola mundo!</h2>
+                    <p style="color: brown;">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet quo ad at soluta eveniet veniam obcaecati itaque repellendus quia necessitatibus, quod cumque hic, error quibusdam quas suscipit vel molestiae esse.
+                        <p><a href="">aceptar</a><a href="">cancelar</a></p>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
