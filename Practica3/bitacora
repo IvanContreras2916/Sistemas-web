@@ -10,4 +10,4 @@ git commit -mensaje de cambios
 git push
 5.obtener cambios del repositioor remoto
 git pull
-6.observar los cambios en el repositorio localgit status
+6.observar los cambios en el repositorio localgit status          
